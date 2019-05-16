@@ -1,4 +1,4 @@
-# modern-react-boilerplate
+# < Calories
 
 Basic boilerplate for React 16, Webpack 4, React Router 4.
 A minimal React project boilerplate suitable for quick app prototyping (front-end only option) or as a starting point for app development (full-stack option).
